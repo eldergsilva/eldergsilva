@@ -1,4 +1,9 @@
-### Hi there 👋
+# Olá, galera!
+
+Meu nome é Elder Gomes da Silva. Sou um grande fã do desenvolvimento de sistemas e atualmente estou participando de um bootcamp de programação na [@cubosacademy](https://cubos.academy/). Estou em busca da minha primeira oportunidade no desenvolvimento de software e tenho muito interesse em aprender novas linguagens. Estou totalmente aberto a trabalhar com novas tecnologias.
+
+## :point_rigth : Me Encontre  [!linkedin(https://www.linkedin.com/in/elder-gomes-da-silva-711777190/)] 
+ <a href="mailto:eldergsilva@gmail.com"> <img src"https://www.flaticon.com/br/icone-gratis/gmail_281769" ></a>
 
 <!--
 **eldergsilva/eldergsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
