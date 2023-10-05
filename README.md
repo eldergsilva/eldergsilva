@@ -12,6 +12,4 @@ Meu nome é Elder Gomes da Silva. Sou um grande fã do desenvolvimento de sistem
 
 
 </div>
- ![Snake animation](https://github.com/eldergsilva/eldergsilva/blob/output/github-contribution-grid-snake.svg)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=eldergsilva&repo=eldergsilva&theme=react)](https://github.com/eldergsilva/eldergsilva)
-
+ 
